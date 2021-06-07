@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shabbeer Hassan
+- 👋 Hi, I’m Shabbeer 
 - 👀 I’m interested in understanding how data in various forms can help answer questions in various domains, from genomic to epidemiological or ones which mix both.
 - 🌱 I’m currently working on statistical methods which can help understand the inner workings of various complex diseases.
 - 💞️ I’m looking to collaborate on anything data-related!
