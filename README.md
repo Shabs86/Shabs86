@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shabbeer Hassan
-- 👀 I’m interested in understanding how data in various forms can help answer the questions, be it biological or epidemiological.
+- 👀 I’m interested in understanding how data in various forms can help answer questions in various domains, from genomic to epidemiological or ones which mix both.
 - 🌱 I’m currently working on statistical methods which can help understand the inner workings of various complex diseases.
 - 💞️ I’m looking to collaborate on anything data-related!
 - 📫 How to reach me - shabbeer.hassan@helsinki.fi
